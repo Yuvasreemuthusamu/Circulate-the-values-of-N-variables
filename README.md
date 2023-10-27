@@ -29,4 +29,4 @@ def circulate():
 ![output](<Screenshot 2023-10-27 055720.png>)
 
 ## Result:
-executed.
+completed.
