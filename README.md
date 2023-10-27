@@ -25,7 +25,7 @@ def circulate():
    print("After circulating the values are:",l)
 ```
 ## Output:
-![output](<Screenshot 2023-10-27 055720.png>)
+![output](cir.png)
 
 ## Result:
 completed.
